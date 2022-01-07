@@ -1,0 +1,15 @@
+C:\projetos\programandoEmCsharp\Xenlongao\bin\Debug\net6.0\Xenlongao.exe
+C:\projetos\programandoEmCsharp\Xenlongao\bin\Debug\net6.0\Xenlongao.deps.json
+C:\projetos\programandoEmCsharp\Xenlongao\bin\Debug\net6.0\Xenlongao.runtimeconfig.json
+C:\projetos\programandoEmCsharp\Xenlongao\bin\Debug\net6.0\Xenlongao.dll
+C:\projetos\programandoEmCsharp\Xenlongao\bin\Debug\net6.0\ref\Xenlongao.dll
+C:\projetos\programandoEmCsharp\Xenlongao\bin\Debug\net6.0\Xenlongao.pdb
+C:\projetos\programandoEmCsharp\Xenlongao\obj\Debug\net6.0\Xenlongao.csproj.AssemblyReference.cache
+C:\projetos\programandoEmCsharp\Xenlongao\obj\Debug\net6.0\Xenlongao.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\programandoEmCsharp\Xenlongao\obj\Debug\net6.0\Xenlongao.AssemblyInfoInputs.cache
+C:\projetos\programandoEmCsharp\Xenlongao\obj\Debug\net6.0\Xenlongao.AssemblyInfo.cs
+C:\projetos\programandoEmCsharp\Xenlongao\obj\Debug\net6.0\Xenlongao.csproj.CoreCompileInputs.cache
+C:\projetos\programandoEmCsharp\Xenlongao\obj\Debug\net6.0\Xenlongao.dll
+C:\projetos\programandoEmCsharp\Xenlongao\obj\Debug\net6.0\ref\Xenlongao.dll
+C:\projetos\programandoEmCsharp\Xenlongao\obj\Debug\net6.0\Xenlongao.pdb
+C:\projetos\programandoEmCsharp\Xenlongao\obj\Debug\net6.0\Xenlongao.genruntimeconfig.cache

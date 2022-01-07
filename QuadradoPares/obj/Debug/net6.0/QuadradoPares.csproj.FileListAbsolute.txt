@@ -1,0 +1,15 @@
+C:\projetos\programandoEmCsharp\QuadradoPares\bin\Debug\net6.0\QuadradoPares.exe
+C:\projetos\programandoEmCsharp\QuadradoPares\bin\Debug\net6.0\QuadradoPares.deps.json
+C:\projetos\programandoEmCsharp\QuadradoPares\bin\Debug\net6.0\QuadradoPares.runtimeconfig.json
+C:\projetos\programandoEmCsharp\QuadradoPares\bin\Debug\net6.0\QuadradoPares.dll
+C:\projetos\programandoEmCsharp\QuadradoPares\bin\Debug\net6.0\ref\QuadradoPares.dll
+C:\projetos\programandoEmCsharp\QuadradoPares\bin\Debug\net6.0\QuadradoPares.pdb
+C:\projetos\programandoEmCsharp\QuadradoPares\obj\Debug\net6.0\QuadradoPares.csproj.AssemblyReference.cache
+C:\projetos\programandoEmCsharp\QuadradoPares\obj\Debug\net6.0\QuadradoPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\programandoEmCsharp\QuadradoPares\obj\Debug\net6.0\QuadradoPares.AssemblyInfoInputs.cache
+C:\projetos\programandoEmCsharp\QuadradoPares\obj\Debug\net6.0\QuadradoPares.AssemblyInfo.cs
+C:\projetos\programandoEmCsharp\QuadradoPares\obj\Debug\net6.0\QuadradoPares.csproj.CoreCompileInputs.cache
+C:\projetos\programandoEmCsharp\QuadradoPares\obj\Debug\net6.0\QuadradoPares.dll
+C:\projetos\programandoEmCsharp\QuadradoPares\obj\Debug\net6.0\ref\QuadradoPares.dll
+C:\projetos\programandoEmCsharp\QuadradoPares\obj\Debug\net6.0\QuadradoPares.pdb
+C:\projetos\programandoEmCsharp\QuadradoPares\obj\Debug\net6.0\QuadradoPares.genruntimeconfig.cache
